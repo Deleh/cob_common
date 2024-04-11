@@ -14,7 +14,6 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <exec_depend>cob_actions</exec_depend>
-  <exec_depend>cob_description</exec_depend>
   <exec_depend>cob_msgs</exec_depend>
   <exec_depend>cob_srvs</exec_depend>
 
