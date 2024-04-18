@@ -2,8 +2,8 @@
 Changelog for package cob_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.7.11 (2024-04-18)
+-------------------
 * Merge pull request `#308 <https://github.com/4am-robotics/cob_common/issues/308>`_ from fmessmer/noetic-devel
   [ROS1] cob4 eol cleanup
 * remove cob_description
