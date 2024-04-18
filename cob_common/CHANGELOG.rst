@@ -2,6 +2,14 @@
 Changelog for package cob_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#309 <https://github.com/4am-robotics/cob_common/issues/309>`_ from fmessmer/foxy_cleanup
+  [ROS2] cob4 eol cleanup
+* remove cob_description
+* remove raw_description
+* Contributors: Felix Messmer, fmessmer
+
 2.7.10 (2024-02-20)
 -------------------
 
