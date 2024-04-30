@@ -5,6 +5,12 @@ Changelog for package cob_msgs
 0.7.11 (2024-04-18)
 -------------------
 
+Forthcoming
+-----------
+* 0.7.11
+* update changelogs
+* Contributors: fmessmer
+
 0.7.10 (2024-02-20)
 -------------------
 
