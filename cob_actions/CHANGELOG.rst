@@ -5,8 +5,8 @@ Changelog for package cob_actions
 0.7.11 (2024-04-18)
 -------------------
 
-Forthcoming
------------
+0.8.11 (2024-04-30)
+-------------------
 * 0.7.11
 * update changelogs
 * Contributors: fmessmer

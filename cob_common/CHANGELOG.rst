@@ -10,8 +10,8 @@ Changelog for package cob_common
 * remove raw_description
 * Contributors: Felix Messmer, fmessmer
 
-Forthcoming
------------
+0.8.11 (2024-04-30)
+-------------------
 * 0.7.11
 * update changelogs
 * Merge pull request `#308 <https://github.com/4am-robotics/cob_common/issues/308>`_ from fmessmer/noetic-devel
